@@ -35,7 +35,7 @@ BUY_INTERVAL = 3000
 npm start
 ```
 
-![ Running bot ](solana-sniper-bot.png)
+![ Running bot ](pumpfun-bump.png)
 
 
 ## 5 Signatures
