@@ -1,4 +1,4 @@
-How to run Solana-Raydium-Pumpfun-Sniper-Bot
+How to run Solana-pumpfun-increase-transactions-bot
 
 ## 1 Clone
 
@@ -25,7 +25,7 @@ BUY_PRICE_LIMIT = 0.01
 
 JITO_TIP = 0.000005
 
-SNIPER_INTERVAL = 3000
+BUY_INTERVAL = 3000
 
 
 
